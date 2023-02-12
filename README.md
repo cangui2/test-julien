@@ -7,7 +7,7 @@ Ce projet est une application de gestion de tâches permettant d'ajouter, de mod
 ## Installation
 
 1. Clonez le repository sur votre machine locale :
-
+https://github.com/cangui2/test-julien.git
 
 
 2. Importez le fichier `db.sql` dans votre serveur MySQL pour créer la base de données et la table nécessaire :
